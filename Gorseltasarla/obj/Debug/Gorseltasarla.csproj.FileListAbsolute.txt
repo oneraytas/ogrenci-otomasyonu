@@ -1,0 +1,58 @@
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe.config
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.pdb
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csprojAssemblyReference.cache
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Form1.resources
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Properties.Resources.resources
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.GenerateResource.cache
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.CoreCompileInputs.cache
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.exe
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.pdb
+C:\Users\Oner\source\repos\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Notlarım.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe.config
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csprojAssemblyReference.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Form1.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Properties.Resources.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Notlarım.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.GenerateResource.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.CoreCompileInputs.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe.config
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csprojAssemblyReference.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Form1.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Properties.Resources.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Notlarım.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.GenerateResource.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.CoreCompileInputs.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\5.Hafta\Kaynak\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.giris.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe.config
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csprojAssemblyReference.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Form1.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.giris.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Properties.Resources.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Notlarım.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.GenerateResource.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.CoreCompileInputs.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe.config
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\bin\Debug\Gorseltasarla.pdb
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csprojAssemblyReference.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Form1.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.giris.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Properties.Resources.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.Notlarım.resources
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.GenerateResource.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.csproj.CoreCompileInputs.cache
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.exe
+D:\OneDrive - isikun.edu.tr\Dersler\21Güz\Görsel Programlama II\Sunular\6.Hafta\Gorseltasarla\Gorseltasarla\Gorseltasarla\Gorseltasarla\obj\Debug\Gorseltasarla.pdb

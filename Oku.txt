@@ -1,0 +1,4 @@
+Veritabnı MSSQL okul.bak
+
+kullanıcı adı: oner
+pw           : 1234
